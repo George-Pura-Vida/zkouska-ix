@@ -1,0 +1,4 @@
+#+PHPVersion
+#="php83"
+AddHandler x-httpd-php83 .php
+#-PHPVersion
